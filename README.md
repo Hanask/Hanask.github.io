@@ -1,10 +1,9 @@
 # Hanask.github.io
 ---
-##Description:
+## Description:
 
-##In _layouts
-
-###Gives the default and post layouts(jekyll web pages)
+## In _layouts
+   - Gives the default and post layouts(jekyll web pages)
 
 ##In _posts
 
