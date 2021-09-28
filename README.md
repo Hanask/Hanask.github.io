@@ -2,29 +2,23 @@
 ---
 ## Description:
 
-## In _layouts
+### In _layouts
    - Gives the default and post layouts(jekyll web pages)
 
-##In _posts
+### In _posts
+   - Contents of the posts
 
-###Contents of the posts
+### In about 
+   - What the website is all about
 
-##In about 
+### In css
+   - css file
 
-###What the website is all about
+### In destinations
+   - lists out the various destinations
 
-##In css
+### In  _config.yml file that
+   - Tells Jekyll some basics about the project
 
-###css file
-
-##In destinations
-
-###lists out the various destinations
-
-##In  _config.yml file that
-
-###Tells Jekyll some basics about the project
-
-##In index
-
-###Details about the home page
+### In index
+   - Details about the home page
